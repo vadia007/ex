@@ -1,0 +1,24 @@
+
+name = Bartik
+description = A flexible, recolorable theme with many regions.
+package = Core
+version = VERSION
+core = 7.x
+
+stylesheets[all][] = css/layout.css
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/colors.css
+stylesheets[print][] = css/print.css
+
+regions[header] = Header
+regions[login] = Login
+regions[content] = Content
+
+settings[shortcut_module_link] = 0
+
+
+; Information added by drupal.org packaging script on 2013-01-16
+version = "7.19"
+project = "drupal"
+datestamp = "1358374870"
+
