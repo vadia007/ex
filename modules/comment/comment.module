@@ -2003,7 +2003,7 @@ function comment_form($form, &$form_state, $comment) {
 
   $form['subject'] = array(
     '#type' => 'textfield',
-    '#title' => t('Subject'),
+    '#title' => t('Пользователь'),
     '#maxlength' => 64,
     '#default_value' => $comment->subject,
     '#access' => variable_get('comment_subject_field_' . $node->type, 1) == 1,

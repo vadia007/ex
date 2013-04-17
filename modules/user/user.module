@@ -2049,7 +2049,7 @@ function user_login($form, &$form_state) {
 
   // Display login form:
   $form['name'] = array('#type' => 'textfield',
-    '#title' => t('логин: '),
+    '#title' => t('логин:'),
     '#maxlength' => USERNAME_MAX_LENGTH,
     '#required' => TRUE,
   );
@@ -2060,6 +2060,15 @@ function user_login($form, &$form_state) {
     //'#description' => t('Enter the password that accompanies your username.'),
     '#required' => TRUE,
   );
+
+    $form['reg'] = array(
+        '#markup' => '<div>'.l(t('регистрация нового пользователя'), 'user/register').'</div>'
+    );
+
+    $form['fogot'] = array(
+        '#markup' => '<div>'.l(t('напомнить забытый пароль'), 'user/password').'</div>'
+    );
+
   $form['#validate'] = user_login_default_validators();
   $form['actions'] = array('#type' => 'actions');
   $form['actions']['submit'] = array('#type' => 'submit', '#value' => t('Log in'));

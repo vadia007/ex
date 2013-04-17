@@ -35,5 +35,12 @@
  */
 ?>
 <div class="profile"<?php print $attributes; ?>>
-  <?php print render($user_profile); ?>
+  <div>
+      <?php print render($user_profile['user_picture']);?>
+  </div>
+
+    <div>
+        <?php print render($user_profile['field_about']);?>
+    </div>
+
 </div>

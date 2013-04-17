@@ -28,21 +28,46 @@
       <file leaf-file-name="page.tpl.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/bartik/templates/page.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="140" column="35" selection-start="6240" selection-end="6240" vertical-scroll-proportion="-3.2653062">
+            <state line="149" column="32" selection-start="6690" selection-end="6690" vertical-scroll-proportion="-7.875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="node.tpl.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/bartik/templates/node.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="111" column="5" selection-start="5140" selection-end="5140" vertical-scroll-proportion="0.51282054">
               <folding>
-                <element signature="e#7#4148#0" expanded="true" />
+                <element signature="e#7#4068#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.module" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="user.module" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/user/user.module">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1183" column="0" selection-start="43469" selection-end="43469" vertical-scroll-proportion="0.22905028">
-              <folding>
-                <element signature="e#7#74#0" expanded="true" />
-              </folding>
+            <state line="2061" column="4" selection-start="74578" selection-end="74578" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user-profile.tpl.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/user/user-profile.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="0" selection-start="1718" selection-end="1718" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/bartik/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="125" column="16" selection-start="1865" selection-end="1865" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -50,10 +75,8 @@
       <file leaf-file-name="user.pages.inc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/user/user.pages.inc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="434" column="39" selection-start="16551" selection-end="16551" vertical-scroll-proportion="50.0">
-              <folding>
-                <element signature="e#7#71#0" expanded="true" />
-              </folding>
+            <state line="434" column="39" selection-start="16551" selection-end="16551" vertical-scroll-proportion="-2.5">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -61,10 +84,8 @@
       <file leaf-file-name="user.admin.inc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/user/user.admin.inc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="161" column="0" selection-start="5145" selection-end="5145" vertical-scroll-proportion="-3.0612245">
-              <folding>
-                <element signature="e#7#72#0" expanded="true" />
-              </folding>
+            <state line="161" column="0" selection-start="5145" selection-end="5145" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,22 +100,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/modules/openid/openid.module" />
-        <option value="$PROJECT_DIR$/modules/simpletest/tests/session.test" />
-        <option value="$PROJECT_DIR$/sites/all/modules/captcha/image_captcha/image_captcha.module" />
         <option value="$PROJECT_DIR$/modules/system/system.module" />
-        <option value="$PROJECT_DIR$/modules/user/user-profile.tpl.php" />
         <option value="$PROJECT_DIR$/includes/form.inc" />
         <option value="$PROJECT_DIR$/themes/bartik/bartik.info" />
         <option value="$PROJECT_DIR$/modules/system/system.menus.css" />
         <option value="$PROJECT_DIR$/modules/system/system.theme.css" />
         <option value="$PROJECT_DIR$/modules/search/search.module" />
         <option value="$PROJECT_DIR$/modules/user/user-profile-category.tpl.php" />
-        <option value="$PROJECT_DIR$/modules/user/user.pages.inc" />
         <option value="$PROJECT_DIR$/modules/user/user.admin.inc" />
+        <option value="$PROJECT_DIR$/modules/user/user.pages.inc" />
+        <option value="$PROJECT_DIR$/modules/user/user.module" />
+        <option value="$PROJECT_DIR$/modules/user/user-profile.tpl.php" />
         <option value="$PROJECT_DIR$/themes/bartik/css/style.css" />
         <option value="$PROJECT_DIR$/themes/bartik/templates/page.tpl.php" />
-        <option value="$PROJECT_DIR$/modules/user/user.module" />
+        <option value="$PROJECT_DIR$/modules/comment/comment-wrapper.tpl.php" />
+        <option value="$PROJECT_DIR$/modules/comment/comment.module" />
+        <option value="$PROJECT_DIR$/themes/bartik/templates/node.tpl.php" />
       </list>
     </option>
   </component>
@@ -217,6 +238,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bartik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -235,46 +278,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="user" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="user" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -282,7 +285,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../drupal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -309,10 +312,10 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33068362" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290938" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26661265" sideWeight="0.66931635" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29092383" sideWeight="0.6709062" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -379,126 +382,106 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/search/search-block-form.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="40" selection-start="330" selection-end="330" vertical-scroll-proportion="0.30727762">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/search/search-results.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/search/search-result.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1358372748000" expanded="true" signature="2793:3319" placeholder="..." />
-            <marker date="1358372748000" expanded="true" signature="2881:2984" placeholder="..." />
-            <marker date="1358372748000" expanded="true" signature="3060:3313" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/user/user.admin.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="161" column="0" selection-start="5145" selection-end="5145" vertical-scroll-proportion="-3.0612245">
-          <folding>
-            <element signature="e#7#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/user/user.permissions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/user/user.pages.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="434" column="39" selection-start="16551" selection-end="16551" vertical-scroll-proportion="50.0">
-          <folding>
-            <element signature="e#7#71#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/bartik/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="19" selection-start="1694" selection-end="1694" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/bartik/templates/page.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="35" selection-start="6240" selection-end="6240" vertical-scroll-proportion="-3.2653062">
-          <folding>
-            <element signature="e#7#4148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/user/tests/user_form_test.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.6714286">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/user/user.api.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/user/user-picture.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/bartik/bartik.info">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
+        <state line="13" column="22" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/user/user-profile-item.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/user/user-profile-category.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/user/user.test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1878" column="24" selection-start="79671" selection-end="79671" vertical-scroll-proportion="0.33270678" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/user/user.admin.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="161" column="0" selection-start="5145" selection-end="5145" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/user/user-profile.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="40" column="0" selection-start="1718" selection-end="1718" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/user/user-profile-item.tpl.php">
+    <entry file="file://$PROJECT_DIR$/themes/bartik/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/user/user-profile-category.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="125" column="16" selection-start="1865" selection-end="1865" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/user/user.module">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1183" column="0" selection-start="43469" selection-end="43469" vertical-scroll-proportion="0.22905028">
+        <state line="2061" column="4" selection-start="74578" selection-end="74578" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/comment/comment-wrapper.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="41" selection-start="1870" selection-end="1870" vertical-scroll-proportion="0.5555556">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/comment/comment.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1903" column="6" selection-start="63917" selection-end="63917" vertical-scroll-proportion="0.5769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/user/user.pages.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="434" column="39" selection-start="16551" selection-end="16551" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/node/content_types.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-8.387574">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/file.mimetypes.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="224" column="14" selection-start="9153" selection-end="9153" vertical-scroll-proportion="-5.940171">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bartik/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="149" column="32" selection-start="6690" selection-end="6690" vertical-scroll-proportion="-7.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bartik/templates/node.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="5" selection-start="5140" selection-end="5140" vertical-scroll-proportion="0.51282054">
           <folding>
-            <element signature="e#7#74#0" expanded="true" />
+            <element signature="e#7#4068#0" expanded="true" />
           </folding>
         </state>
       </provider>

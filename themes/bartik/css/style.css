@@ -122,3 +122,9 @@ form#user-login{
     display: block;
     float: left;
 }
+.profile > div {
+    clear: both;
+}
+.profile .user-picture {
+    float: none;
+}

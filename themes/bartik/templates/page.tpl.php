@@ -116,6 +116,7 @@
                         <li><a href="<?php echo $front_page.'?q=user/login';?>">Вход</a></li>
                     <?php endif;?>
                     <?php if($logged_in):?>
+                        <li><a href="<?php echo $front_page.'?q=node/add';?>">Добавить контент</a></li>
                         <li><a href="<?php echo $front_page.'?q=user';?>">Моя страница</a></li>
                         <li><a href="<?php echo $front_page.'?q=user/register';?>">Настройки</a></li>
                         <li><a href="<?php echo $front_page.'?q=user/logout';?>">Выход</a></li>
@@ -156,14 +157,6 @@
                 <?php endif; ?>
 
                 <?php if(!$is_front){print render($page['content']);} ?>
-                <?php if(($_GET['q'] == 'user/login') or ($_GET['q'] == 'user')):?>
-                    <?php if(!$logged_in):?>
-                    <ul class="login">
-                        <li><a href="<?php echo $front_page.'?q=user/register';?>">регистрация нового пользователя</a></li>
-                        <li><a href="<?php echo $front_page.'?q=user/password';?>">напомнить забытый пароль</a></li>
-                    </ul>
-                    <?php endif;?>
-                    <?php endif; ?>
 
             </div></div> <!-- /.section, /#content -->
 
